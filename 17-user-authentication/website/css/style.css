@@ -1,0 +1,56 @@
+body {
+  background-color: #325F9B;
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 0px;
+  height: 100%;
+}
+
+
+h1, h2, h3, h4 {
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #325F9B;
+}
+
+img {
+  width: 100%;
+}
+
+#main {
+  background-color: #fff;
+  padding: 20px;
+  width: 1024px;
+  margin: 0 auto;
+}
+
+#menu {
+  text-align: right;
+}
+
+.menu-link {
+  font-size: 24px;
+  color: #444444;
+  margin: 10px;
+  text-decoration: underline;
+}
+
+.card {
+  float: left;
+  width: 33%;
+}
+
+.card-content {
+  padding: 10px;
+}
+
+.footer {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.footer-link {
+  color: #ffffff;
+}
